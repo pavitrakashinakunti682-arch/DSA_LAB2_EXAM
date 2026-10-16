@@ -1,0 +1,5 @@
+BANANA
+apple
+APPLE
+MANGO
+ORANGE
